@@ -13,7 +13,7 @@ By the end of this course, you will become familiar with JSON Processing API and
 <LI>Write JSON data to streams 
 <LI>Use JSON model API to create and transform JSON documents 
 <LI>Create JSON patches and use them to make batch modifications in JSON documents 
-<LI>Study Jason Merge Patch as another option of modifying JSON documents 
+<LI>Study JSON Merge Patch as another option of modifying JSON documents 
 <LI>Configure your project to use JSON Binding and Yasson
 <LI>Use default mapping for serializing/deserializing a simple Java class
 <LI>Understand what date formats are used by default
